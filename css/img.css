@@ -1,0 +1,10 @@
+.main {
+  border-radius: 5px;
+  margin-top: 88px;
+  padding: 100px 0;
+}
+.main img {
+  border-radius: 50%;
+  height: 300px;
+  margin: -66px 0 22px 0;  
+}
